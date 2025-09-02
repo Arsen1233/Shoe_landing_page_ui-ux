@@ -6,7 +6,7 @@ Focus on product highlights, bold typography, and a modern shopping experience.
 ---
 
 ## Project Files
-- [Download PDF Preview](./shoe-landing-page.pdf)
+- [Download PDF Preview](https://github.com/Arsen1233/Shoe_landing_page_ui-ux/commit/dadba0814f6cf157d42e252e653ab1a2a4c29a7b)
 
 ---
 
